@@ -8,7 +8,7 @@ Ikuti ssosial media kami guna untuk mendapatkan infotmasi yang menarik.
 3. Indothings : http://indothings.rf.gd/
 
 <div align="center">
-<img src="https://github.com/tomimandalap/libraryarduino/blob/main/Capture.PNG?raw=true" alt="webindothings" width="600px"</img>
+<img src="https://github.com/tomimandalap/libraryarduino/blob/main/Capture.PNG?raw=true" alt="webindothings" width="1000px"</img>
 </div>
 
 Mohon dukungan kalian untuk pembuatan cloud atau web yang dapat digunakan media penampil data secara realtime yang terintegrasi dengan internet of things (IoT).
